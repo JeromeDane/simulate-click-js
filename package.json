@@ -1,0 +1,25 @@
+{
+  "name": "simulate-click-js",
+  "version": "1.0.0",
+  "description": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeromeDane/simulate-click-js.git"
+  },
+  "keywords": [
+    "javascript",
+    "dom",
+    "simulate",
+    "click"
+  ],
+  "author": "Jerome Dane <jeromedane.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JeromeDane/simulate-click-js/issues"
+  },
+  "homepage": "https://github.com/JeromeDane/simulate-click-js#readme"
+}
