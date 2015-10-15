@@ -2,7 +2,8 @@
   "name": "simulate-click-js",
   "version": "1.0.0",
   "description": "0.0.1",
-  "main": "index.js",
+  "main": "src/simulate-click.js",
+  "browser": "src/simulate-click.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
